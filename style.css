@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(247, 241, 234);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#curiosidade{
+    width: 30%;
+    height: 30%;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+
+.text h1{
+    font-family: sans-serif;
+}
+
+.text ol{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}    
+
+.section{
+    border-radius: 30px;
+    border: solid rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+    padding: 30px;
+    margin: 0.05px;
+}
