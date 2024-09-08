@@ -26,3 +26,9 @@ body{
     padding: 30px;
     margin: 0.05px;
 }
+
+button{
+    position: relative;
+    top: 20px;
+    margin-bottom: 30px;
+}
