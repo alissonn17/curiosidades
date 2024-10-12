@@ -33,11 +33,11 @@
     margin: 0.05px;
 }
 
-button{
+/* button{
     position: relative;
     top: 20px;
     margin-bottom: 30px;
-}
+} */
 
 button:hover{
     color: gray;
@@ -69,4 +69,14 @@ nav ul li a{
 
 nav ul li a:hover{
     background-color: cadetblue;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+footer img{
+    height: 50px;
+    width: 50px;
 }

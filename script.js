@@ -1,3 +1,3 @@
-function cliquei(){
-    alert("Interessante né?");
-}
+// function cliquei(){
+//     alert("Interessante né?");
+// }
